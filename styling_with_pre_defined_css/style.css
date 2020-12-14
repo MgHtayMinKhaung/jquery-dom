@@ -1,0 +1,22 @@
+#css_styling{
+
+	border: 1px solid black;
+	width: 250px;
+	height: 250px;
+
+}
+
+.actions{
+
+	margin-top: 10px;
+
+}
+
+#css_styling.smaller{
+
+	width: 125px;
+	height: 125px;
+	background-color: red;
+	border-color: red;
+
+}

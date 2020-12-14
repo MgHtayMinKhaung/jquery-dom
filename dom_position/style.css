@@ -1,0 +1,43 @@
+html, body{
+
+	margin: 0px 0px;
+
+}
+
+#dom01{
+
+	width: 500px;
+	height: 300px;
+	margin: 15px 10px;
+	border: 1px solid black;
+	position: relative; /* Do not Forget to add */
+
+}
+
+#dom02{
+
+	width: 250px;
+	height: 150px;
+	left: 50px;
+	top: 50px;
+	border: 1px solid blue;
+	position: absolute;
+
+}
+
+#dom03{
+
+	width: 75px;
+	height: 75px;
+	left: 50px;
+	top: 50px;
+	border: 1px solid red;
+	position: absolute;
+
+}
+
+button{
+
+	margin-top: 10px;
+
+}
